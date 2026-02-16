@@ -9,7 +9,6 @@ Ingeniera Civil y Científica de Datos con experiencia en <b>Python</b>, <b>Mach
 </p>
 
 <h2 style="font-size:28px; color:#1565c0;">Tecnologías y Herramientas</h2>
-
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
@@ -28,13 +27,10 @@ Ingeniera Civil y Científica de Datos con experiencia en <b>Python</b>, <b>Mach
 
 <h2 style="font-size:28px; color:#1565c0;">Conéctate Conmigo</h2>
 <p>
-  <a href="https://www.linkedin.com/in/catherine-antonietta-cazorla-gonzalez-5ab7b73b0/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-  </a>
-</p>
-<p>
-  <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Email" width="38" height="38" style="vertical-align:middle;"/>
-  <a href="mailto:cathycaz00@gamil.com" style="font-size:18px;color:#1a237e;">cathycaz00@gamil.com</a>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="38" height="38" style="vertical-align:middle;"/>
+  <a href="mailto:cathycaz00@gamil.com" style="font-size:18px;color:#1a237e; margin-right:24px;">cathycaz00@gamil.com</a>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="38" height="38" style="vertical-align:middle;"/>
+  <a href="https://www.linkedin.com/in/catherine-antonietta-cazorla-gonzalez-5ab7b73b0/" target="_blank" style="font-size:18px;color:#1a237e;">/in/catherine-antonietta-cazorla-gonzalez-5ab7b73b0</a>
 </p>
 
 </td>
