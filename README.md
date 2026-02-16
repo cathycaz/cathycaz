@@ -1,21 +1,27 @@
 <h1 align="center">Hola 👋, soy Catherine Cazorla</h1>
-<h3 align="justify">Ingeniero Civil y Científica de Datos, con experiencia en Python (Pandas, NumPy), Machine Learning (TensorFlow/Keras), NLP y visualización para insights accionables. Orientada al aprendizaje continuo, resolución de problemas y trabajo en equipo. Con conocimientos en teccnologías como: 
 
-- Python
-- Pandas
-- NumPy
-- EDA
-- Matplotlib
-- Seaborn
-- Scikit-Learn
-- TensorFlow
-- Transformers NLP
-- Streamlit
-- Git/GitHub
-- APIs
-- Web Scraping
-- Google Colab
-</h3>
+<p>
+Ingeniera Civil y Científica de Datos, con experiencia en Python (Pandas, NumPy), Machine Learning (TensorFlow/Keras), NLP y visualización para insights accionables. Orientada al aprendizaje continuo, resolución de problemas y trabajo en equipo.
+</p>
+
+<p><b>Con conocimientos en tecnologías como:</b></p>
+
+<ul>
+  <li>Python</li>
+  <li>Pandas</li>
+  <li>NumPy</li>
+  <li>EDA</li>
+  <li>Matplotlib</li>
+  <li>Seaborn</li>
+  <li>Scikit-Learn</li>
+  <li>TensorFlow</li>
+  <li>Transformers NLP</li>
+  <li>Streamlit</li>
+  <li>Git/GitHub</li>
+  <li>APIs</li>
+  <li>Web Scraping</li>
+  <li>Google Colab</li>
+</ul>
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
