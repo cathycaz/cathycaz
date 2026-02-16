@@ -1,39 +1,18 @@
-<table width="100%" style="background:#e3f2fd; border-radius:20px;">
-<tr>
-<td align="justify">
+# Proyecto
 
-<h1 style="font-size:40px; color:#0d47a1;">Hola 👋, soy Catherine Cazorla</h1>
+## Descripción
 
-<p style="font-size:18px; color:#1a237e;">
-Ingeniera Civil y Científica de Datos con experiencia en <b>Python</b>, <b>Machine Learning</b>, <b>NLP</b> y <b>Visualización</b>. Amante del aprendizaje continuo, resolución de problemas y trabajo en equipo. Con conocimientos en tecnologías como: Python, Pandas, NumPy, EDA, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, Transformers NLP, Streamlit, Git/GitHub, APIs, Web Scraping, Google Colab.
-</p>
+Este es un proyecto que utiliza diversas tecnologías.
 
-<h2 style="font-size:28px; color:#1565c0;">Tecnologías y Herramientas</h2>
+## Tecnologías Utilizadas
+- Python
+- Flask
+- Seaborn
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" alt="EDA" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_static/logo.png" alt="Seaborn" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Transformers NLP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-256/api-3771605-3151341.png" alt="APIs" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Web Scraping" width="40" height="40"/>
-</p>
+![Seaborn Icon](https://cdn-icons-png.flaticon.com/512/561/561127.png)
 
-<h2 style="font-size:28px; color:#1565c0;">Conéctate Conmigo</h2>
-<p>
-  <a href="https://www.linkedin.com/in/catherine-antonietta-cazorla-gonzalez-5ab7b73b0/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-  </a>
-</p>
+---
 
-</td>
-</tr>
-</table>
+## Conéctate Conmigo
+
+![Email Icon](https://cdn-icons-png.flaticon.com/512/561/561127.png) [cathycaz00@gmail.com](mailto:cathycaz00@gmail.com)
