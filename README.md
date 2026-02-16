@@ -8,7 +8,7 @@
 Ingeniera Civil y Científica de Datos con experiencia en <b>Python</b>, <b>Machine Learning</b>, <b>NLP</b> y <b>Visualización</b>. Amante del aprendizaje continuo, resolución de problemas y trabajo en equipo. Con conocimientos en tecnologías como: Python, Pandas, NumPy, EDA, Matplotlib, Seaborn, Scikit-Learn,TensorFlow, Transformers NLP, Streamlit, Git/GitHub, APIs, Web Scraping, Google Colab
 </p>
 
-<h2 style="font-size:28px; color:#1565c0;">Tecnologías y herramientas</h2>
+<h2 style="font-size:28px; color:#1565c0;">Tecnologías y Herramientas</h2>
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -28,7 +28,7 @@ Ingeniera Civil y Científica de Datos con experiencia en <b>Python</b>, <b>Mach
   <img src="https://github.com/yandexdataschool/ML-lectures/blob/master/images/colab_logo.svg?raw=true" alt="Google Colab" width="40" height="40"/>
 </p>
 
-<h2 style="font-size:28px; color:#1565c0;">Conéctate conmigo</h2>
+<h2 style="font-size:28px; color:#1565c0;">Conéctate Conmigo</h2>
 <p>
   <a href="https://www.linkedin.com/in/catherine-antonietta-cazorla-gonzalez-5ab7b73b0/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
