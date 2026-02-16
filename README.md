@@ -1,6 +1,6 @@
 <table width="100%" style="background:#e3f2fd; border-radius:20px;">
 <tr>
-<td align="center">
+<td align="justify">
 
 <h1 style="font-size:40px; color:#0d47a1;">Hola 👋, soy Catherine Cazorla</h1>
 
