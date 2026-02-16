@@ -1,33 +1,40 @@
-<h1 align="center">Hola 👋, soy Catherine Cazorla</h1>
+<table width="100%" style="background:#e3f2fd; border-radius:20px;">
+<tr>
+<td align="center">
 
-<p>
-Ingeniera Civil y Científica de Datos, con experiencia en Python (Pandas, NumPy), Machine Learning (TensorFlow/Keras), NLP y visualización para insights accionables. Orientada al aprendizaje continuo, resolución de problemas y trabajo en equipo.
+<h1 style="font-size:40px; color:#0d47a1;">Hola 👋, soy Catherine Cazorla</h1>
+
+<p style="font-size:18px; color:#1a237e;">
+Ingeniera Civil y Científica de Datos con experiencia en <b>Python</b>, <b>Machine Learning</b>, <b>NLP</b> y <b>visualización</b>. Amante del aprendizaje continuo, resolución de problemas y trabajo en equipo.
 </p>
 
-<p><b>Lenguajes y Herramientas:</b></p>
+<h2 style="font-size:28px; color:#1565c0;">Tecnologías y herramientas</h2>
 
-<ul>
-  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="24" height="24"/> Python</li>
-  <li><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="24" height="24"/> Pandas</li>
-  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="24" height="24"/> NumPy</li>
-  <li>EDA</li>
-  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="24" height="24"/> Matplotlib</li>
-  <li>Seaborn</li>
-  <li><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="24" height="24"/> Scikit-Learn</li>
-  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="24" height="24"/> TensorFlow</li>
-  <li>Transformers NLP</li>
-  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="24" height="24"/> Streamlit</li>
-  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="24" height="24"/> Git/GitHub</li>
-  <li>APIs</li>
-  <li>Web Scraping</li>
-  <li><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Google_Colaboratory_Logo_%28Black%29.png" alt="colab" width="24" height="24"/> Google Colab</li>
-</ul>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" alt="EDA" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_static/logo.png" alt="Seaborn" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Transformers NLP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/api-3771605-3151341.png" alt="APIs" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Web Scraping" width="40" height="40"/>
+  <img src="https://github.com/yandexdataschool/ML-lectures/blob/master/images/colab_logo.svg?raw=true" alt="Google Colab" width="40" height="40"/>
+</p>
 
-<h3 align="left">Conéctate Conmigo:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/catherine-antonietta-cazorla-gonzalez-5ab7b73b0/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<h2 style="font-size:28px; color:#1565c0;">Conéctate conmigo</h2>
+<p>
+  <a href="https://www.linkedin.com/in/catherine-antonietta-cazorla-gonzalez-5ab7b73b0/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
 </p>
 
-
+</td>
+</tr>
+</table>
