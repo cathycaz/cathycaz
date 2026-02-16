@@ -7,20 +7,20 @@ Ingeniera Civil y Científica de Datos, con experiencia en Python (Pandas, NumPy
 <p><b>Con conocimientos en tecnologías como:</b></p>
 
 <ul>
-  <li>Python</li>
-  <li>Pandas</li>
-  <li>NumPy</li>
+  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="24" height="24"/> Python</li>
+  <li><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="24" height="24"/> Pandas</li>
+  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="24" height="24"/> NumPy</li>
   <li>EDA</li>
-  <li>Matplotlib</li>
+  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="24" height="24"/> Matplotlib</li>
   <li>Seaborn</li>
-  <li>Scikit-Learn</li>
-  <li>TensorFlow</li>
+  <li><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="24" height="24"/> Scikit-Learn</li>
+  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="24" height="24"/> TensorFlow</li>
   <li>Transformers NLP</li>
-  <li>Streamlit</li>
-  <li>Git/GitHub</li>
+  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="24" height="24"/> Streamlit</li>
+  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="24" height="24"/> Git/GitHub</li>
   <li>APIs</li>
   <li>Web Scraping</li>
-  <li>Google Colab</li>
+  <li><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Google_Colaboratory_Logo_%28Black%29.png" alt="colab" width="24" height="24"/> Google Colab</li>
 </ul>
 
 <h3 align="left">Conéctate conmigo:</h3>
