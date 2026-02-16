@@ -3,7 +3,7 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/catherine antonietta cazorla gonzalez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="catherine antonietta cazorla gonzalez" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/catherine antonietta cazorla gonzalez](https://www.linkedin.com/in/catherine-antonietta-cazorla-gonzalez-5ab7b73b0/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="catherine antonietta cazorla gonzalez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
