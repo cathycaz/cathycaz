@@ -1,8 +1,7 @@
-![Banner Data Science](https://github.com/cathycaz/cathycaz/raw/main/banner-datascience.png)
-
 <table width="100%" style="background:#e3f2fd; border-radius:20px;">
 <tr>
 <td align="justify">
+![Banner Data Science](https://github.com/cathycaz/cathycaz/raw/main/banner-datascience.png)
 
 <h1 style="font-size:40px; color:#0d47a1;">Hola, mi nombre es Catherine Cazorla 👋 </h1>
 
