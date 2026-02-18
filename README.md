@@ -1,4 +1,4 @@
-![Banner Data Science](banner-datascience.png)
+![Banner Data Science](https://github.com/cathycaz/cathycaz/raw/main/banner-datascience.png)
 
 <table width="100%" style="background:#e3f2fd; border-radius:20px;">
 <tr>
