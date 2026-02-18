@@ -1,3 +1,4 @@
+<img src="banner-datascience.png" alt="Banner Data Science" style="width:100%; display:block; border-radius:18px; margin-bottom:20px;">
 <table width="100%" style="background:#e3f2fd; border-radius:20px;">
 <tr>
 <td align="justify">
