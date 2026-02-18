@@ -1,3 +1,3 @@
-# Title
+# README
 
-Content of the README file as per commit ad17226cfe5f1e162095b2481b46033af7f7be52.
+Este es un ejemplo de un archivo README. Contiene toda la información necesaria sobre el proyecto.
