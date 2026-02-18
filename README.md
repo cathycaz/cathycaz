@@ -1,6 +1,7 @@
 <table width="100%" style="background:#e3f2fd; border-radius:20px;">
 <tr>
 <td align="justify">
+<p align="center">
   <img src="https://github.com/cathycaz/cathycaz/raw/main/banner-datascience.png" alt="Banner Data Science" style="width:90%;max-width:660px; border-radius:12px; margin-bottom:18px;"/>
 </p>
 
