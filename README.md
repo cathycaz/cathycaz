@@ -6,7 +6,7 @@
   Soy Catherine Cazorla</h1>
 
 <p style="font-size:18px; color:#1a237e;">
-Científico de Datos con formación en Ingeniería Civil, combinando el rigor analítico y técnico de ingeniería con las capacidades avanzadas en el procesamiento de datos a través de Python (Pandas, NumPy), Machine Learning, Deep Learning, Aplicaciones de IA (TensorFlow/Keras), NLP y Visualización para la generación de hallazgos accionables. Orientada al aprendizaje profundo y continuo, la resolución de problemas complejos y trabajo en equipo.
+Científico de Datos con formación en Ingeniería Civil, combinando el rigor analítico y técnico de ingeniería con las capacidades avanzadas en el procesamiento de datos a través de **Python (Pandas, NumPy), Machine Learning, Deep Learning, Aplicaciones de IA (TensorFlow/Keras), NLP y Visualización** para la generación de hallazgos accionables. Orientada al aprendizaje profundo y continuo, la resolución de problemas complejos y trabajo en equipo.
 </p>
 
 <h2 style="font-size:28px; color:#1565c0;">Tecnologías y Herramientas</h2>
