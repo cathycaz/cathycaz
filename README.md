@@ -2,7 +2,7 @@
 <tr>
 <td align="justify">
 <p align="center">
-  <img src="https://github.com/cathycaz/cathycaz/raw/main/banner-datascience.png" alt="Banner Data Science" style="width:70%;max-width:660px; border-radius:12px; margin-bottom:18px;"/>
+  <img src="https://github.com/cathycaz/cathycaz/raw/main/banner-datascience.png" alt="Banner Data Science" style="width:95%;max-width:660px; border-radius:12px; margin-bottom:18px;"/>
 </p>
 
 <h1 style="font-size:40px; color:#0d47a1;">Hola, mi nombre es Catherine Cazorla 👋 </h1>
