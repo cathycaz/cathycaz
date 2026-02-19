@@ -31,7 +31,7 @@ Científica de Datos con formación en Ingeniería Civil, combinando el rigor an
 <h2 style="font-size:28px; color:#1565c0;">Conéctate Conmigo</h2>
 <p style="margin-bottom:10px;">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="38" height="38" style="vertical-align:middle;"/>
-  <a href="[https://www.linkedin.com/in/catherine-cazorla](https://www.linkedin.com/in/catherine-cazorla/)" target="_blank" style="font-size:18px;color:#1a237e; vertical-align:middle;">/in/catherine-antonietta-cazorla-gonzalez-5ab7b73b0</a>
+  <a href="[https://www.linkedin.com/in/catherine-cazorla/]" target="_blank" style="font-size:18px;color:#1a237e; vertical-align:middle;">/in/catherine-antonietta-cazorla-gonzalez-5ab7b73b0</a>
 </p>
 <p>
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="38" height="38" style="vertical-align:middle;"/>
